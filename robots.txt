@@ -1,1 +1,1 @@
-Sitemap: https://hyeongmin-cho.github.io/hyeongmin/sitemap.xml
+Sitemap: https://hyeongmin-cho.github.io/blog/sitemap.xml
