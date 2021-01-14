@@ -14,20 +14,9 @@
     
         ,"post1": {
             "title": "블로그 시작!",
-            "content": "블로깅을 하는게 손이 많이가서 안하고 있다가 Fastpages라는 것을 알게 되었다. 마크다운, 주피터 노트북 파일을 작성하면 이쁘게 포스팅을 해주는 것 같다. 읽은 논문, 공부한 내용을 정리하는 식으로 올릴거고 주제는 생성 모델, 베이지안딥러닝, 적대적 공격 등이 될 것 같다. 최소 주 1회 포스팅을 목표로 해야겠다. 파이팅!! . $ alpha$ .",
+            "content": "블로깅을 하는게 손이 많이가서 안하고 있다가 Fastpages라는 것을 알게 되었다. 마크다운, 주피터 노트북 파일을 작성하면 이쁘게 포스팅을 해주는 것 같다. 읽은 논문, 공부한 내용을 정리하는 식으로 올릴거고 주제는 생성 모델, 베이지안딥러닝, 적대적 공격 등이 될 것 같다. 최소 주 1회 포스팅을 목표로 해야겠다. 파이팅!! .",
             "url": "https://hyeongmin-cho.github.io/blog/start/2020/01/14/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%B0%9C%EC%84%A4.html",
             "relUrl": "/start/2020/01/14/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%B0%9C%EC%84%A4.html",
-            "date": " • Jan 14, 2020"
-        }
-        
-    
-  
-    
-        ,"post2": {
-            "title": "An Example Markdown Post",
-            "content": "Example Markdown Post . Basic setup . Jekyll requires blog post files to be named according to the following format: . YEAR-MONTH-DAY-filename.md . Where YEAR is a four-digit number, MONTH and DAY are both two-digit numbers, and filename is whatever file name you choose, to remind yourself what this post is about. .md is the file extension for markdown files. . The first line of the file should start with a single hash character, then a space, then your title. This is how you create a “level 1 heading” in markdown. Then you can create level 2, 3, etc headings as you wish but repeating the hash character, such as you see in the line ## File names above. . Basic formatting . You can use italics, bold, code font text, and create links. Here’s a footnote 1. Here’s a horizontal rule: . . Lists . Here’s a list: . item 1 | item 2 | . And a numbered list: . item 1 | item 2 | Boxes and stuff . This is a quotation . . You can include alert boxes …and… . . You can include info boxes Images . . Code . You can format text and code per usual . General preformatted text: . # Do a thing do_thing() . Python code and output: . # Prints &#39;2&#39; print(1+1) . 2 . Formatting text as shell commands: . echo &quot;hello world&quot; ./some_script.sh --option &quot;value&quot; wget https://example.com/cat_photo1.png . Formatting text as YAML: . key: value - another_key: &quot;another value&quot; . Tables . Column 1 Column 2 . A thing | Another thing | . Tweetcards . Altair 4.0 is released! https://t.co/PCyrIOTcvvTry it with: pip install -U altairThe full list of changes is at https://t.co/roXmzcsT58 ...read on for some highlights. pic.twitter.com/vWJ0ZveKbZ . &mdash; Jake VanderPlas (@jakevdp) December 11, 2019 Footnotes . This is the footnote. &#8617; . |",
-            "url": "https://hyeongmin-cho.github.io/blog/markdown/2020/01/14/test-markdown-post.html",
-            "relUrl": "/markdown/2020/01/14/test-markdown-post.html",
             "date": " • Jan 14, 2020"
         }
         
