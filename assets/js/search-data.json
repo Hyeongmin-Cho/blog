@@ -3,7 +3,7 @@
     
         "post0": {
             "title": "Latex Test",
-            "content": "$alpha$ .",
+            "content": "$ alpha$ .",
             "url": "https://hyeongmin-cho.github.io/blog/2020/01/18/Latex-Test.html",
             "relUrl": "/2020/01/18/Latex-Test.html",
             "date": " • Jan 18, 2020"
