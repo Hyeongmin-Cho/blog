@@ -3,7 +3,7 @@
     
         "post0": {
             "title": "Latex Test",
-            "content": "$ alpha$ .",
+            "content": "$ alpha$ . μ1−μ2σ12−σ22 frac{ mu_1 - mu_2}{ sigma^2_1 - sigma^2_2}σ12​−σ22​μ1​−μ2​​ .",
             "url": "https://hyeongmin-cho.github.io/blog/2020/01/18/Latex-Test.html",
             "relUrl": "/2020/01/18/Latex-Test.html",
             "date": " • Jan 18, 2020"
