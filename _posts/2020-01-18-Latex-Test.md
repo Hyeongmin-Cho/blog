@@ -9,5 +9,5 @@ title:
 
 ---
 
-$alpha$
+$\alpha$
 
