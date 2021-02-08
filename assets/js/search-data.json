@@ -2,6 +2,17 @@
   
     
         "post0": {
+            "title": "베이지안 방법과 베이즈 정리",
+            "content": "이 포스트에서는 확률적 추론을 위한 베이지안 방법을 다루려고 합니다. CSE 515T와 PRML section 1.2를 참고하여 작성하였습니다. .",
+            "url": "https://hyeongmin-cho.github.io/blog/bayesian%20method/bayes%20theorem/2020/02/08/Bayesian-Method.html",
+            "relUrl": "/bayesian%20method/bayes%20theorem/2020/02/08/Bayesian-Method.html",
+            "date": " • Feb 8, 2020"
+        }
+        
+    
+  
+    
+        ,"post1": {
             "title": "블로그 시작!",
             "content": "블로깅을 하는게 손이 많이가서 안하고 있다가 Fastpages라는 것을 알게 되었다. 마크다운, 주피터 노트북 파일을 작성하면 이쁘게 포스팅을 해주는 것 같다. 읽은 논문, 공부한 내용을 정리하는 식으로 올릴거고 주제는 생성 모델, 베이지안딥러닝, 적대적 공격 등이 될 것 같다. 최소 주 1회 포스팅을 목표로 해야겠다. 파이팅!! .",
             "url": "https://hyeongmin-cho.github.io/blog/start/2020/01/14/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%B0%9C%EC%84%A4.html",
