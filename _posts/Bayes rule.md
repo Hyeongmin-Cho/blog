@@ -3,7 +3,7 @@ toc: true
 comments: true
 layout: post
 use_math: true
-description: 첫 포스팅
+description: Bayesian Method
 categories: [Bayesian Method, Bayes Theorem]
 title: 베이지안 방법과 베이즈 정리
 ---
